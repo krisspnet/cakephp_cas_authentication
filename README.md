@@ -19,7 +19,7 @@ Add the plugin to your project's `composer.json`:
 ```javascript
 {
   "require": {
-    "asaladino/cas_authentication": "1.0.*"
+    "krisspnet/cas_authentication": "1.0.*"
   }
 }
 ```
